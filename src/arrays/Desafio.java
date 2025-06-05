@@ -24,6 +24,7 @@ public class Desafio {
         }
 
         double media = (somaNotas / qtdeNotas);
+        //Alternativa: somaNotas / notas.length;
 
         System.out.println("A média do aluno é: " + media);
 
